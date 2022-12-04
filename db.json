@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "86d30379-b4dc-475c-9db5-03ef50e91c15",
+      "name": "mariam",
+      "email": "mariam43@gmail.com"
+    },
+    {
+      "id": "11cb07b8-7cac-4273-84eb-38672a1d16e1",
+      "name": "olanrewaju",
+      "email": "olanrewaju123@gmail.com"
+    },
+    {
+      "id": "f0e82403-e43b-43dc-b39c-5b6240bdbda4",
+      "name": "larrygaga",
+      "email": "larrygaga4168@gmail.com"
+    },
+    {
+      "id": "55be63d7-50a5-46ab-89b3-5d412717c6f1",
+      "name": "larrygaga",
+      "email": "larrygaga4168@gmail.com"
+    },
+    {
+      "id": "1eda9bb4-8977-425c-a4b5-f8c0d8c866f3",
+      "name": "larrygaga",
+      "email": "larrygaga4168@gmail.com"
+    },
+    {
+      "id": "835cead9-4493-4bd3-996a-167961ff1448",
+      "name": "ABK",
+      "email": "ABKworldwide@gmail.com"
+    }
+  ],
+  "employees": [
+    {
+      "id": 2,
+      "name": "John",
+      "role": "Manager",
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": 3,
+      "name": "Mike",
+      "role": "intern",
+      "img": "https://images.pexels.com/photos/2167673/pexels-photo-2167673.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": 4,
+      "name": "Williams",
+      "role": "Intern",
+      "img": "https://images.pexels.com/photos/732425/pexels-photo-732425.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": 5,
+      "name": "Sandra",
+      "role": "Dev.",
+      "img": "https://images.pexels.com/photos/2117283/pexels-photo-2117283.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": 6,
+      "name": "Peter",
+      "role": "Co. CEO",
+      "img": "https://images.pexels.com/photos/2755165/pexels-photo-2755165.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": 7,
+      "name": "Joshua",
+      "role": "Intern",
+      "img": "https://images.pexels.com/photos/3186558/pexels-photo-3186558.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": 8,
+      "name": "Richard",
+      "role": "Eng.",
+      "img": "https://images.pexels.com/photos/2853198/pexels-photo-2853198.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": 9,
+      "name": "LarryGaga",
+      "role": "Dev.",
+      "img": "https://images.pexels.com/photos/4556737/pexels-photo-4556737.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": "ed99aa5c-c6a8-4d7b-a6ff-b584c1580eb5",
+      "name": "olanrewaju4168",
+      "role": "Marketer",
+      "img": "https://images.pexels.com/photos/3220360/pexels-photo-3220360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
